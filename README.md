@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I am currently working as IT internship at the city hall of Campos Novos Paulista  
-🌱 I’m currently learning JavaScript, Python  
+🌱 I’m currently learning Python and Laravel  
 
 # 📊 Git Status:
 <p align="center">
