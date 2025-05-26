@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 I am currently working as IT internship at the city hall of Campos Novos Paulista  
-🌱 I’m currently learning Python and Laravel  
-
 # 📊 Git Status:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julio-Gabriell&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
