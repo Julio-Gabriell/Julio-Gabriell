@@ -1,3 +1,16 @@
+<p align="center">
+
+## 👋 Olá! Eu sou o **Julio Gabriel**
+
+🎨 Desenvolvedor apaixonado por tecnologia, aprendizado constante e criação de soluções eficientes.  
+💻 Experiência prática com **PHP**, **Laravel**, **HTML5**, **CSS3**, **TailwindCss** e **Bootstrap5**.  
+⚙️ Curioso por boas práticas, arquitetura, acessibilidade e tudo que melhora a qualidade do código.  
+🚀 Gosto de transformar ideias em aplicações funcionais, limpas e bem estruturadas.  
+📚 Sempre estudando, evoluindo e explorando novas ferramentas e conceitos.  
+🧑‍🏫 E adoro compartilhar conhecimento, ajudando outros devs a aprenderem junto comigo. 
+
+</p>
+
 ###
 
 <div align="center">  
@@ -41,25 +54,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
 </div>
-
-###
-
-<h2 align="center">About me</h2>
-
-###
-
-<p align="center">
-
-## 👋 Olá! Eu sou o **Julio Gabriel**
-
-🎨 Desenvolvedor apaixonado por tecnologia, aprendizado constante e criação de soluções eficientes.  
-💻 Experiência prática com **PHP**, **Laravel**, **HTML5**, **CSS3**, **TailwindCss** e **Bootstrap5**.  
-⚙️ Curioso por boas práticas, arquitetura, acessibilidade e tudo que melhora a qualidade do código.  
-🚀 Gosto de transformar ideias em aplicações funcionais, limpas e bem estruturadas.  
-📚 Sempre estudando, evoluindo e explorando novas ferramentas e conceitos.  
-🧑‍🏫 E adoro compartilhar conhecimento, ajudando outros devs a aprenderem junto comigo. 
-
-</p>
-
 
 ###
